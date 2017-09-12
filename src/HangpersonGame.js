@@ -1,4 +1,5 @@
 class HangpersonGame {
+/*
   constructor(word) {
     this.word = word;
     this.letters_in_word = word.split('');
@@ -14,6 +15,7 @@ class HangpersonGame {
 
   check_win_or_lose() {
   }
+*/
 }
 
 var hangperson_game = new HangpersonGame('glorp');
